@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+
+/* div{
+    padding: 10px;
+} */
+
+.box-yellow{   
+    background-color: rgb(233, 218, 178);
+    border: 4px dashed rgb(222, 173, 82); 
+    margin: 10px 0px 10px 500px;
+   width: 500px;
+}
+.divider{
+    height: 3px;
+    width: 100%;
+    margin: 9px;
+    background-color: rgb(163, 161, 161);
+}
+
+.box-blue{
+    background-color: rgb(191, 232, 232);
+    border-bottom:10px double black;
+    border-top: 10px double black;
+    margin: 30px;
+    width: 370px;  
+}
+
+
+.box-orange{
+width: 600px;
+border: 4px ridge saddlebrown;
+background-color: rgb(205, 172, 111);
+margin-left: 800px;
+margin-top: 20px;
+}
+
+
+
